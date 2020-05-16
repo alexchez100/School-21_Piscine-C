@@ -1,0 +1,3 @@
+git check-ignore $(find . )
+
+

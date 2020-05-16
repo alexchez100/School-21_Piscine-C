@@ -1,0 +1,5 @@
+Credentials cache: API:0637074C-C34A-4EAE-81CD-EE6875E4F321
+        Principal: gsansa@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 24 20:47:27 2020  Feb 25 20:47:27 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
